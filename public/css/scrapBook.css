@@ -1,0 +1,9 @@
+body {
+    background: url(/images/bg1.jpg);
+}
+.card {
+    background: center url(/images/card1.jpg);
+}
+i {
+    cursor: pointer;
+}
